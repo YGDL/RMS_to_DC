@@ -91,6 +91,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FDVNVTLY
 
 [Document4]
+DocumentPath=RMS_to_DC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TJNCGVHO
+
+[Document5]
 DocumentPath=RMS_to_DC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVNVIPDF
 
-[Document5]
+[Document6]
 DocumentPath=RMS_to_DC_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,25 +141,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHUFQPNJ
 
-[Document6]
-DocumentPath=RMS_to_DC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TJNCGVHO
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RMS_to_DC\Design Rule Check - RMS_to_DC.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for RMS_to_DC\Design Rule Check - RMS_to_DC_1.html
 DItemRevisionGUID=
 
 [Configuration1]
